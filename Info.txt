@@ -1,0 +1,19 @@
+Github ->
+
+- git init
+- git add .
+- git commit -m "first commit"
+- git branch -M master
+- git remote add origin <repo url>
+- git push -u origin master
+
+
+- git push --set-upstream origin main
+
+
+- git config --list 
+- rm -rf origin
+
+- Delete .git if you are facing any issue with push code
+
+
