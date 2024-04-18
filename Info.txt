@@ -11,8 +11,17 @@ Github ->
 - git push --set-upstream origin main
 
 
+Configure github -> 
 - git config --list 
+
+- $git config --global user.name "abc"
+- $git config --global user.email "abc@gmail.com"
+- $git config --global user.password "1234321"
+
+
+Delete Origin  -> 
 - rm -rf origin
+
 
 - Delete .git if you are facing any issue with push code
 
